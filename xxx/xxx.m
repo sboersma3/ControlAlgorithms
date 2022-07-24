@@ -1,8 +1,7 @@
 clear;clc
 
-% NMPC example using Casadi and the single shooting method
+% xxx example
 
-addpath(genpath('C:\casadi-windows-matlabR2016a-v3.5.5'));
 addpath('bin');
 
 % model parameters
